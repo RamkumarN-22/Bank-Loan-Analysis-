@@ -122,8 +122,8 @@ SQL Server → Data Cleaning & Queries → Power BI Connection → DAX Measures 
 ## 👤 Author  
 **Ramkumar N**  
 Business Intelligence Analyst | Executive PG in Data Analytics (IIT Roorkee)  
-📧 [ramkumar.n.data@gmail.com](mailto:ramkumar.n.data@gmail.com)  
-🔗 [LinkedIn](#) | [Portfolio](https://marked-unicorn-aef.notion.site/Ramkumar-Data-Analyst-Portfolio-27179b3fd86d80c6a194e9debe65e193)
+📧 [ramkumar.n.data@gmail.com](mailto:ramkumar.nagaraju92@gmail.com)  
+🔗 [LinkedIn](linkedin.com/in/ramkumar-n-a8a817388) | [Portfolio](https://marked-unicorn-aef.notion.site/Ramkumar-Data-Analyst-Portfolio-27179b3fd86d80c6a194e9debe65e193)
 
 ---
 
